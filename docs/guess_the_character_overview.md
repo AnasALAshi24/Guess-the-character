@@ -6,6 +6,10 @@ Neural Character Oracle is a browser-based character-guessing game built with St
 
 Although the interface uses a futuristic “neural oracle” theme, the prediction engine is deterministic. It does not call a generative-AI service. Instead, it narrows a curated local character dataset by selecting questions that efficiently separate the remaining candidates.
 
+## Video demonstration
+
+[Watch the Guess the Character demo on Google Drive](https://drive.google.com/file/d/17kcpr1GYMkoraQoTyxGjLmZ6Ji0nLlZo/view?usp=sharing)
+
 ## User experience
 
 1. The welcome screen presents the supported character universes and starts a new scan.
