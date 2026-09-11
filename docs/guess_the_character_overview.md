@@ -8,7 +8,7 @@ Although the interface uses a futuristic “neural oracle” theme, the predicti
 
 ## Video demonstration
 
-[Watch the Guess the Character demo on Google Drive](https://drive.google.com/file/d/17kcpr1GYMkoraQoTyxGjLmZ6Ji0nLlZo/view?usp=sharing)
+[Guess the Character demo](https://drive.google.com/file/d/17kcpr1GYMkoraQoTyxGjLmZ6Ji0nLlZo/view?usp=sharing)
 
 ## User experience
 
